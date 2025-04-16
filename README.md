@@ -12,7 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/aimannn/" target="_blank" rel="noreferrer"
+<h3 align="center">
+  <font face="Arial">
+    <a href="https://www.linkedin.com/in/aimannn/" target="_blank">LinkedIn Profile</a>
+  </font>
+</h3>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
